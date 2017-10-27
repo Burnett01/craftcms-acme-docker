@@ -50,7 +50,7 @@ Also make sure to use the credentials of the database service in your ``craft/ap
 
 return array(
 
-	'server' => 'localhost', // or container IP
+	'server' => 'craft.dev', // or container IP
 
 	// The name of the database to select.
 	'database' => 'acmedb',
